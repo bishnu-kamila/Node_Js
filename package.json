@@ -4,7 +4,8 @@
   "description": "This is crase course",
   "main": "01_Basic.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node 01_Basic",
+    "dev" : "nodemon 01_Basic"
   },
   "keywords": [
     "nodejs",
