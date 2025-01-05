@@ -4,12 +4,12 @@
 
 
 
-// const { log } = require('console')
-// const name = require('./auth.js')
+const { log } = require('console')
+const name = require('./auth.js')
 
 
-// name.register('Kamila Bishnupada')
-// name.login('Kamila Bishnupada','Yahoo@123')
+name.register('Kamila Bishnupada')
+name.login('Kamila Bishnupada','Yahoo@123')
 
 
 
